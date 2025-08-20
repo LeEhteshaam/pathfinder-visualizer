@@ -3,7 +3,7 @@
 This project is a Python-based interactive tool for visualizing various pathfinding algorithms and maze generation. Built with Pygame, it provides a hands-on way to understand how different algorithms explore a grid to find the shortest path between two points.
 
  
-*(You can replace the link above with a screenshot of your application)*
+## **[➡️ Play the Live Demo on Itch.io!](https://ehteshaam.itch.io/pathfinding-algorithms)**
 
 ## Features
 
